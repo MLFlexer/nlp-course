@@ -21,3 +21,4 @@ transformers
 sacrebleu
 jupyter
 rise
+datasets
